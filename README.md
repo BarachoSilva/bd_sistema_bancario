@@ -1,10 +1,8 @@
 # Projeto de Sistema Bancário Simples
 
-## Este é um projeto de exemplo para um sistema bancário simples, utilizando um banco de dados fictício chamado "MeuBancoDeDados". O sistema é concebido para gerenciar clientes e suas transações financeiras. Abaixo, você encontrará informações sobre a estrutura do banco de dados e a lógica por trás do sistema.
+Este é um projeto de exemplo para um sistema bancário simples, utilizando um banco de dados fictício chamado "MeuBancoDeDados". O sistema é concebido para gerenciar clientes e suas transações financeiras. Abaixo, você encontrará informações sobre a estrutura do banco de dados e a lógica por trás do sistema.
 
-#Estrutura do Banco de Dados
-
-## O banco de dados é composto por duas tabelas principais:
+# O banco de dados é composto por duas tabelas principais:
 
 Clientes:
 
