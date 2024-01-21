@@ -10,6 +10,7 @@ IDCliente: Identificador único do cliente (chave primária).
 Nome: Nome do cliente.
 Email: Endereço de e-mail do cliente.
 SaldoConta: Saldo atual na conta do cliente.
+
 Transacoes:
 
 IDTransacao: Identificador único da transação (chave primária).
